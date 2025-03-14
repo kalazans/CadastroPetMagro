@@ -17,3 +17,6 @@
   <br>
 <p>OBS: sei que nao ta bomzao kkkk ta um frankestein remendado, nem todas as convençoes foram seguidas pq esqueci de mudar cedo, só tem isso nos nomes das classes<br>
 talvez de alguns erros que pare o programa, obrigado quem for conferir! dito isto: teria menos dor de cabeça com o bancoSql kkkk txt é coisa de louco</p>
+<p>Obs: só as busca por datas e conjuntas nao foi implementado<br>
+  na pegunta: Qual o peso aproximado do pet? 0, caso nao saiba! -> digite numero maior q 0.5 e no formato -> 1,5  / 1.2 / 35,5! Explicaçap: esqueci de tirar do nao saiba
+</p>
