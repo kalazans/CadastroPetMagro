@@ -1,0 +1,14 @@
+{
+  "firstName": "wendell",
+  "lastName": "sousa",
+  "tipo": "GATO",
+  "sexo": "F",
+  "endereco": {
+    "rua": "show",
+    "cidade": "saidas",
+    "numeroCasa": 15
+  },
+  "idade": 10.0,
+  "peso": 10.0,
+  "raça": "siames"
+}

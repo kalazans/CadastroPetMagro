@@ -1,0 +1,14 @@
+{
+  "firstName": "NAOINFORMADO",
+  "lastName": "NAOINFORMADO",
+  "tipo": "GATO",
+  "sexo": "F",
+  "endereco": {
+    "rua": "sa",
+    "cidade": "sa",
+    "numeroCasa": 10
+  },
+  "idade": 10.0,
+  "peso": 10.0,
+  "raça": "siames"
+}

@@ -1,0 +1,14 @@
+{
+  "firstName": "shows",
+  "lastName": "tow",
+  "tipo": "GATO",
+  "sexo": "F",
+  "endereco": {
+    "rua": "show",
+    "cidade": "vapo",
+    "numeroCasa": 15
+  },
+  "idade": 10.0,
+  "peso": 1.5,
+  "raça": "siames"
+}

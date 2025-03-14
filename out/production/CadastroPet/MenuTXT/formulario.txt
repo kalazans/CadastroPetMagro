@@ -1,0 +1,7 @@
+Qual o nome? ou Nulo caso nao saiba!
+Qual o sobrenome? Nulo caso nao saiba!
+Qual o tipo do pet (Cachorro/Gato)?
+Qual o sexo do animal? M/F
+Qual a idade aproximada do pet? 0, caso nao saiba!
+Qual o peso aproximado do pet? 0, caso nao saiba!
+Qual a raça do pet? ou Nulo caso nao saiba!

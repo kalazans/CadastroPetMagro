@@ -1,0 +1,5 @@
+1 - Criar nova pergunta
+2 - Alterar pergunta existente
+3 - Excluir pergunta existente
+4 - Voltar para o menu inicial
+5 - Sair
